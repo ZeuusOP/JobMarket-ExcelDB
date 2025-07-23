@@ -41,6 +41,7 @@ This project presents a comprehensive data analysis and visualization of salary 
 
 Here’s a snapshot of the Excel dashboard showing key insights like average salary, top job roles, and remote work distribution:
 
+![Dashboard Overview](JobMarketExcelDB.PNG)
 
 
 
